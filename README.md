@@ -2,7 +2,6 @@
 
 A cross-platform graphical interface for [Floresta](https://github.com/getfloresta/Floresta) - a lightweight Bitcoin client with Utreexo.
 
-
 ## Main Commands
 
 ### Development
@@ -28,7 +27,6 @@ pnpm run tauri build
 pnpm run build
 ```
 
-
 ### Project Setup
 
 ```bash
@@ -42,6 +40,7 @@ pnpm install
 # Run in development
 pnpm run tauri dev
 ```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -50,6 +49,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Floresta](https://github.com/getfloresta/Floresta) - Main Bitcoin client
 - [Floresta Figma](https://www.figma.com/design/FQ6hhKE9JRrTN9xoma9nJl/Floresta) - Floresta GUI prototype
-
 
 ---
